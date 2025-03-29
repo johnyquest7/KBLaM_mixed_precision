@@ -1,4 +1,7 @@
 # KBLaM - Knowledge Base Augmented Language Models [ICLR 2025]
+# This is a fork from the original KBLaM Repo
+# Fixed LlamaRotaryEmbedding problem
+# Added mixed precsion traning so that it can run in small GPU. Tested in 3090.
 
 This repo contains the official implementation of [KBLaM: Knowledge Base Augmented Language Models](https://arxiv.org/abs/2410.10450).
 
